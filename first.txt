@@ -1,1 +1,2 @@
 this is my first file of git branch
+This is second line on second branch
